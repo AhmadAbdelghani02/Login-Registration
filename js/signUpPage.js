@@ -56,5 +56,5 @@ function signUp() {
     localStorage.setItem('accounts', JSON.stringify(accounts));
 
     
-    window.location.href = '../logInPage.html';
+    window.location.href = '../index.html';
 }
