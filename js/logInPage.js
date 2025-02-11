@@ -19,5 +19,5 @@ function login() {
     }
 
     localStorage.setItem('loggedInEmail', email);
-    window.location.href = '../HTML/homePage.html';
+    window.location.href = '../html/profilePage.html';
 }
